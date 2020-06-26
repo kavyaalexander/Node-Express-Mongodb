@@ -1,0 +1,63 @@
+/* body {
+    background-image: url(./photos/home\ wallpaper.png)
+} */
+
+h1 {
+    color: white;
+    background-color: black;
+    padding: 0.5cm;
+    margin: 0cm;
+    margin-left: 0.1cm;
+    margin-right: 0.1cm;
+    border: none;
+    border-radius: 7px;
+    font-style: italic;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    text-align: center;
+}
+
+h6 {
+    padding: 0.4cm;
+}
+
+h5 {
+    color: rgb(241, 111, 241);
+}
+
+#pp {
+    border: 1px solid black;
+    /* font-weight: bold; */
+    color: brown;
+}
+
+#p1 {
+    font-weight: bold;
+    color: brown;
+    font-style: italic;
+    text-align: justify;
+}
+
+#q {
+    color: white;
+}
+
+li a {
+    float: left;
+    padding: 10px;
+    color: white;
+}
+
+#bg-image {
+    height: 12cm;
+    background-image: url(/photos/home2wall.jpg);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.footer {
+    background-color: black;
+    color: rgb(55, 123, 201);
+    padding: 30px;
+    align-items: stretch;
+}
